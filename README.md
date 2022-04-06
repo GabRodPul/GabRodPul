@@ -1,8 +1,4 @@
-- 👋 Hi, I’m AUGHHHHH
-- 👀 I’m interested in AUGHHHHH
-- 🌱 I’m currently learning AUGHHHHH
-- 💞️ I’m looking to collaborate on AUGHHHHH
-- 📫 How to reach me AUGHHHHH
+me gustan mucho los videojuegos como por ejemplo el shin megami tensei: devil survivor overcloacked
 
 <!---
 GabRodPul/GabRodPul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
